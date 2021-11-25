@@ -143,7 +143,7 @@ https://github.com/ifabrisarabellapark/web3foundation_grant/tree/main/UI%20diagr
  
 ### Milestone 1 - Hosted-Node, Database
 - **Estimated duration:** 1 month
-- **FTE:**  4.5
+- **FTE:**  5.5
 - **Costs:** 20,000 USD
  
 | Number | Deliverable | Specification |
@@ -158,7 +158,7 @@ https://github.com/ifabrisarabellapark/web3foundation_grant/tree/main/UI%20diagr
  
 ### Milestone 2 - Public/Private APIs
 - **Estimated duration:** 1 month
-- **FTE:**  4.5
+- **FTE:**  4
 - **Costs:** 15,000 USD
  
 | Number | Deliverable | Specification |
@@ -175,7 +175,7 @@ https://github.com/ifabrisarabellapark/web3foundation_grant/tree/main/UI%20diagr
  
 ### Milestone 3 - Feature Engineering, Website, Dashboards
 - **Estimated duration:** 1 month
-- **FTE:**  4.5
+- **FTE:**  4
 - **Costs:** 14,000 USD
  
 | Number | Deliverable | Specification |
