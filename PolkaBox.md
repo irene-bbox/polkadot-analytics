@@ -6,6 +6,9 @@
 * - bc1qz36smg7zg9d2de7qurj9a49fetemavta39a9zp (BTC) 
 * - 0x3ffA0e66091742a867430D140E36826c06ba19Be (ETH)
 * **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2
+
+![](https://github.com/BalloonBox-Inc/polkadot-analytics/blob/main/UI%20diagrams/logo_black.png)
+
  
 ## Project Overview :page_facing_up:
 
