@@ -20,7 +20,7 @@ Our project, PolkaBox is an open platform + dashboard for creating a huge lake o
  
 #### Architecture
 
-![](https://github.com/ifabrisarabellapark/web3foundation_grant/blob/main/images/PolkaBox_architecture.png)
+![](https://github.com/BalloonBox-Inc/polkadot-analytics/blob/main/images/PolkaBox_architecture.png)
 
 #### Infrastructure Components
 1. **Nodes**: PolkaBox needs to provide near-real-time analytics both to visualize and to access programmatically. For this reason, we’ll set up and maintain our own nodes to maintain a public record as a participant without relying on 3rd party APIs for the raw blockchain data. The nodes will be built on Raspberry Pi 4 (8GB) computers (per node) and managed in Dockerized environments with the hardware installed on-site. These nodes will all be open-sourced.
@@ -69,7 +69,7 @@ Throughout this application, we define ‘Market Sentiment’ to be the general 
 
     We have compiled a list of the most similar data analysis platforms. The table below compares them feature by feature.
 
-    ![](https://github.com/ifabrisarabellapark/web3foundation_grant/blob/main/images/PolkaBox_uniqueness.png)
+    ![](https://github.com/BalloonBox-Inc/polkadot-analytics/blob/main/images/PolkaBox_uniqueness.png)
 
     There are numerous successful data analysis projects as well as explorers both inside and outside the Polkadot ecosystem. Every project has a specific focus: DeFi predictions, multi-chain block exploration, event tracking. But currently, there is no Polkadot-based platform that aggregates off-chain metrics through public APIs. We want to elevate the unique design of Polkadot, as a network that connects heterogeneous blockchain shards, and we are eager to explore how this novel ecosystem is shaped by real-life events like political elections, public health orders, and public opinion. We think the community needs an evaluative tool to identify what off-chain events are shaping the Polkadot network. We also think that such understanding can best inform the future growth of the Polkadot ecosystem as a whole. Through PolkaBox we strive to build such a tool.
 
