@@ -136,7 +136,7 @@ Our team consists of the following roles:
 ## Development Status :open_book:
 We have completed the planning of the product prototype and the design of the UI diagram. Check the following link:
 
-https://github.com/ifabrisarabellapark/web3foundation_grant/tree/main/UI%20diagrams
+https://github.com/BalloonBox-Inc/polkadot-analytics/tree/main/UI%20diagrams
  
 ## Development Roadmap :nut_and_bolt:
 ### Overview
