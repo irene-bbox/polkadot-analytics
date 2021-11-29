@@ -120,7 +120,7 @@ Our team consists of the following roles:
 - https://github.com/mattdm3 Matteo Mortelliti
 - https://github.com/yul761 Yuchen Lin
 - https://github.com/m3mayllon Mayllon Miranda
-- https://github.com/ifabrisarabellapark Irene Fabris
+- https://github.com/irene-bbox Irene Fabris
 - https://github.com/BalloonBox-Hongbin Hongbin Lin
 - https://github.com/yoon-bbox Yoon Kim
  
